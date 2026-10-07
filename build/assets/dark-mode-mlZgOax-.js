@@ -1,0 +1,1 @@
+(function(){var e=document.documentElement.classList.contains(`dark`);document.querySelectorAll(`.sun-icon`).forEach(function(t){t.classList.toggle(`hidden`,e)}),document.querySelectorAll(`.moon-icon`).forEach(function(t){t.classList.toggle(`hidden`,!e)})})();

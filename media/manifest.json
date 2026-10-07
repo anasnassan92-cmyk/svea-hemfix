@@ -1,0 +1,630 @@
+{
+    "photos": [
+        {
+            "id": "p01",
+            "cap": "Städvagn och utrustning",
+            "cat": "team",
+            "w": 1600,
+            "h": 980
+        },
+        {
+            "id": "p02",
+            "cap": "Städning av korridor",
+            "cat": "kontor",
+            "w": 1067,
+            "h": 1600
+        },
+        {
+            "id": "p03",
+            "cap": "Fönsterputsning med skrapa",
+            "cat": "fonster",
+            "w": 1067,
+            "h": 1600
+        },
+        {
+            "id": "p04",
+            "cap": "Fönsterputsning",
+            "cat": "fonster",
+            "w": 1600,
+            "h": 1067
+        },
+        {
+            "id": "p05",
+            "cap": "Städutrustning inför uppdrag",
+            "cat": "team",
+            "w": 1600,
+            "h": 1067
+        },
+        {
+            "id": "p06",
+            "cap": "Trapphus – nystädat",
+            "cat": "trapphus",
+            "w": 1201,
+            "h": 1600
+        },
+        {
+            "id": "p07",
+            "cap": "Moppning av lagergolv",
+            "cat": "kontor",
+            "w": 1071,
+            "h": 1600
+        },
+        {
+            "id": "p08",
+            "cap": "Trapphusstädning",
+            "cat": "trapphus",
+            "w": 1067,
+            "h": 1600
+        },
+        {
+            "id": "p09",
+            "cap": "Städning av korridor i kontorsfastighet",
+            "cat": "kontor",
+            "w": 1067,
+            "h": 1600
+        },
+        {
+            "id": "p10",
+            "cap": "Golvvård i entré",
+            "cat": "trapphus",
+            "w": 1280,
+            "h": 1600
+        },
+        {
+            "id": "p11",
+            "cap": "Städning av garage och gångar",
+            "cat": "trapphus",
+            "w": 1067,
+            "h": 1600
+        },
+        {
+            "id": "p12",
+            "cap": "Vårt team städar vardagsrum",
+            "cat": "hem",
+            "w": 1600,
+            "h": 1067
+        },
+        {
+            "id": "p13",
+            "cap": "Dammsugning av golv",
+            "cat": "hem",
+            "w": 1600,
+            "h": 1067
+        },
+        {
+            "id": "p14",
+            "cap": "Utrustning packas i bilen",
+            "cat": "team",
+            "w": 1600,
+            "h": 1067
+        },
+        {
+            "id": "p15",
+            "cap": "Fönsterputs på fasad",
+            "cat": "fonster",
+            "w": 1066,
+            "h": 1600
+        },
+        {
+            "id": "p16",
+            "cap": "Trapphus efter städning",
+            "cat": "trapphus",
+            "w": 1127,
+            "h": 1600
+        },
+        {
+            "id": "p17",
+            "cap": "Kranar – före och efter avkalkning",
+            "cat": "badrum",
+            "w": 752,
+            "h": 940
+        },
+        {
+            "id": "p18",
+            "cap": "Kök – före och efter",
+            "cat": "kok",
+            "w": 736,
+            "h": 736
+        },
+        {
+            "id": "p19",
+            "cap": "Vardagsrum – före och efter",
+            "cat": "hem",
+            "w": 1200,
+            "h": 1599
+        },
+        {
+            "id": "p20",
+            "cap": "Köksfläkt – före och efter",
+            "cat": "kok",
+            "w": 736,
+            "h": 736
+        },
+        {
+            "id": "p21",
+            "cap": "Spis – före och efter",
+            "cat": "kok",
+            "w": 300,
+            "h": 300
+        },
+        {
+            "id": "p22",
+            "cap": "Byggstädning – före och efter",
+            "cat": "flytt",
+            "w": 1024,
+            "h": 635
+        },
+        {
+            "id": "p23",
+            "cap": "Kök efter renovering – före och efter",
+            "cat": "flytt",
+            "w": 1024,
+            "h": 646
+        },
+        {
+            "id": "p24",
+            "cap": "Flyttstädning – före och efter",
+            "cat": "flytt",
+            "w": 1024,
+            "h": 683
+        },
+        {
+            "id": "p25",
+            "cap": "Vardagsrum – före och efter",
+            "cat": "hem",
+            "w": 728,
+            "h": 1061
+        },
+        {
+            "id": "p26",
+            "cap": "Badkar – före och efter",
+            "cat": "badrum",
+            "w": 736,
+            "h": 736
+        },
+        {
+            "id": "p27",
+            "cap": "Golv – före och efter",
+            "cat": "hem",
+            "w": 901,
+            "h": 614
+        },
+        {
+            "id": "p28",
+            "cap": "Rum – före och efter",
+            "cat": "flytt",
+            "w": 542,
+            "h": 369
+        },
+        {
+            "id": "p29",
+            "cap": "Golv – före och efter",
+            "cat": "hem",
+            "w": 447,
+            "h": 447
+        },
+        {
+            "id": "p30",
+            "cap": "Kök – före och efter",
+            "cat": "kok",
+            "w": 387,
+            "h": 516
+        },
+        {
+            "id": "p31",
+            "cap": "Diskho – före och efter",
+            "cat": "kok",
+            "w": 562,
+            "h": 355
+        }
+    ],
+    "hero": 2523956,
+    "videos": [
+        {
+            "id": "v01",
+            "cap": "Fönsterputsning – noggrant in i minsta detalj",
+            "cat": "fonster",
+            "w": 960,
+            "h": 540,
+            "dur": 34,
+            "size": 1755513
+        },
+        {
+            "id": "v02",
+            "cap": "Hemstädning – vardagsrum och kök",
+            "cat": "hem",
+            "w": 540,
+            "h": 960,
+            "dur": 12,
+            "size": 924218
+        },
+        {
+            "id": "v03",
+            "cap": "Dammtorkning av ytor",
+            "cat": "hem",
+            "w": 506,
+            "h": 960,
+            "dur": 13,
+            "size": 612259
+        },
+        {
+            "id": "v04",
+            "cap": "Rengöring av soffa och textil",
+            "cat": "mobel",
+            "w": 960,
+            "h": 540,
+            "dur": 11,
+            "size": 571897
+        },
+        {
+            "id": "v05",
+            "cap": "Vårt team lastar utrustning",
+            "cat": "team",
+            "w": 540,
+            "h": 960,
+            "dur": 22,
+            "size": 869610
+        },
+        {
+            "id": "v06",
+            "cap": "Professionell utrustning i varje uppdrag",
+            "cat": "team",
+            "w": 960,
+            "h": 540,
+            "dur": 23,
+            "size": 546057
+        },
+        {
+            "id": "v07",
+            "cap": "Teamet på plats hos kund",
+            "cat": "team",
+            "w": 540,
+            "h": 960,
+            "dur": 10,
+            "size": 265245
+        },
+        {
+            "id": "v08",
+            "cap": "Kontorsstädning – konferensrum",
+            "cat": "kontor",
+            "w": 540,
+            "h": 960,
+            "dur": 25,
+            "size": 769695
+        },
+        {
+            "id": "v09",
+            "cap": "Fönster- och glasrengöring",
+            "cat": "fonster",
+            "w": 540,
+            "h": 960,
+            "dur": 19,
+            "size": 585682
+        },
+        {
+            "id": "v10",
+            "cap": "Dammsugning av golv",
+            "cat": "hem",
+            "w": 540,
+            "h": 960,
+            "dur": 16,
+            "size": 348026
+        },
+        {
+            "id": "v11",
+            "cap": "Golvvård och moppning",
+            "cat": "kontor",
+            "w": 960,
+            "h": 540,
+            "dur": 27,
+            "size": 1333905
+        },
+        {
+            "id": "v12",
+            "cap": "Moppning av hårda golv",
+            "cat": "hem",
+            "w": 540,
+            "h": 960,
+            "dur": 24,
+            "size": 677151
+        },
+        {
+            "id": "v13",
+            "cap": "Dammsugning med professionell maskin",
+            "cat": "hem",
+            "w": 540,
+            "h": 960,
+            "dur": 25,
+            "size": 1341647
+        },
+        {
+            "id": "v14",
+            "cap": "Avtorkning av bord och ytor",
+            "cat": "hem",
+            "w": 540,
+            "h": 960,
+            "dur": 13,
+            "size": 741512
+        },
+        {
+            "id": "v15",
+            "cap": "Mattrengöring",
+            "cat": "mobel",
+            "w": 960,
+            "h": 506,
+            "dur": 16,
+            "size": 797444
+        },
+        {
+            "id": "v16",
+            "cap": "Ytdesinfektion",
+            "cat": "hem",
+            "w": 960,
+            "h": 506,
+            "dur": 21,
+            "size": 914775
+        },
+        {
+            "id": "v17",
+            "cap": "Städning av klassrum och lokaler",
+            "cat": "kontor",
+            "w": 960,
+            "h": 540,
+            "dur": 19,
+            "size": 543388
+        },
+        {
+            "id": "v18",
+            "cap": "Fönsterputs på kontor",
+            "cat": "fonster",
+            "w": 960,
+            "h": 540,
+            "dur": 6,
+            "size": 282417
+        },
+        {
+            "id": "v19",
+            "cap": "Rengöring av dörrar och handtag",
+            "cat": "kontor",
+            "w": 960,
+            "h": 540,
+            "dur": 10,
+            "size": 630680
+        },
+        {
+            "id": "v20",
+            "cap": "Sophantering och bortforsling",
+            "cat": "flytt",
+            "w": 506,
+            "h": 960,
+            "dur": 17,
+            "size": 476942
+        },
+        {
+            "id": "v21",
+            "cap": "Vår personal – alltid professionell",
+            "cat": "team",
+            "w": 540,
+            "h": 960,
+            "dur": 10,
+            "size": 154601
+        },
+        {
+            "id": "v22",
+            "cap": "Rengöring av kyl och vitvaror",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 10,
+            "size": 354383
+        },
+        {
+            "id": "v23",
+            "cap": "Rengöring av diskho",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 10,
+            "size": 460232
+        },
+        {
+            "id": "v24",
+            "cap": "Rengöring av väggar",
+            "cat": "hem",
+            "w": 540,
+            "h": 960,
+            "dur": 10,
+            "size": 679113
+        },
+        {
+            "id": "v25",
+            "cap": "Ugnsrengöring",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 10,
+            "size": 451897
+        },
+        {
+            "id": "v26",
+            "cap": "Moppning av trägolv",
+            "cat": "hem",
+            "w": 540,
+            "h": 960,
+            "dur": 10,
+            "size": 273325
+        },
+        {
+            "id": "v27",
+            "cap": "Trapphus och entré",
+            "cat": "trapphus",
+            "w": 1920,
+            "h": 1080,
+            "dur": 19,
+            "size": 10189738,
+            "v": 1790378871
+        },
+        {
+            "id": "v28",
+            "cap": "Kontorsstädning – reception",
+            "cat": "kontor",
+            "w": 540,
+            "h": 960,
+            "dur": 15,
+            "size": 1115731
+        },
+        {
+            "id": "v29",
+            "cap": "Avtorkning av bord",
+            "cat": "hem",
+            "w": 540,
+            "h": 960,
+            "dur": 10,
+            "size": 428192
+        },
+        {
+            "id": "v30",
+            "cap": "Städmaterial – allt ingår",
+            "cat": "team",
+            "w": 540,
+            "h": 960,
+            "dur": 10,
+            "size": 298389
+        },
+        {
+            "id": "v31",
+            "cap": "Rengöring av ugn och spis",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 14,
+            "size": 1115219
+        },
+        {
+            "id": "v32",
+            "cap": "Kakel och fog i badrum",
+            "cat": "badrum",
+            "w": 540,
+            "h": 960,
+            "dur": 28,
+            "size": 1437051
+        },
+        {
+            "id": "v33",
+            "cap": "Badrumsstädning",
+            "cat": "badrum",
+            "w": 480,
+            "h": 848,
+            "dur": 36,
+            "size": 1456102
+        },
+        {
+            "id": "v34",
+            "cap": "Rengöring av spishäll",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 40,
+            "size": 3032750
+        },
+        {
+            "id": "v35",
+            "cap": "Badrum – kakel och kar",
+            "cat": "badrum",
+            "w": 540,
+            "h": 960,
+            "dur": 40,
+            "size": 2428167
+        },
+        {
+            "id": "v36",
+            "cap": "Före och efter – kök",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 8,
+            "size": 295520
+        },
+        {
+            "id": "v37",
+            "cap": "Kök – före och efter",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 24,
+            "size": 1334673
+        },
+        {
+            "id": "v38",
+            "cap": "Rengöring av spis",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 17,
+            "size": 1383465
+        },
+        {
+            "id": "v39",
+            "cap": "Kök – vi fixar allt",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 5,
+            "size": 123856
+        },
+        {
+            "id": "v40",
+            "cap": "Kök efter storstädning",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 19,
+            "size": 979398
+        },
+        {
+            "id": "v41",
+            "cap": "Kran och diskho",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 5,
+            "size": 494181
+        },
+        {
+            "id": "v42",
+            "cap": "Djuprengöring av soffa",
+            "cat": "mobel",
+            "w": 540,
+            "h": 960,
+            "dur": 20,
+            "size": 969296
+        },
+        {
+            "id": "v43",
+            "cap": "Golvvård",
+            "cat": "hem",
+            "w": 540,
+            "h": 960,
+            "dur": 40,
+            "size": 2082045
+        },
+        {
+            "id": "v44",
+            "cap": "Rengöring av diskho i rostfritt",
+            "cat": "kok",
+            "w": 540,
+            "h": 960,
+            "dur": 40,
+            "size": 1609249
+        },
+        {
+            "id": "v45",
+            "cap": "Badkar och badrum",
+            "cat": "badrum",
+            "w": 540,
+            "h": 960,
+            "dur": 40,
+            "size": 2027821
+        }
+    ]
+}

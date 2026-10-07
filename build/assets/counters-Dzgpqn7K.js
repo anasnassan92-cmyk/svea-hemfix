@@ -1,0 +1,1 @@
+var e=new IntersectionObserver(t=>{t.forEach(t=>{if(!t.isIntersecting)return;let n=t.target,r=parseInt(n.dataset.target),i=n.dataset.suffix||``,a=0,o=r/50,s=setInterval(()=>{a+=o,a>=r&&(a=r,clearInterval(s)),n.textContent=`${Math.floor(a)}${i}`},30);e.unobserve(n)})},{threshold:.5});document.querySelectorAll(`.counter`).forEach(t=>e.observe(t));

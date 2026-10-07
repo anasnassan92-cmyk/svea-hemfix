@@ -1,0 +1,10 @@
+# Media folder: static files only – never execute scripts here
+<FilesMatch "\.(php|phtml|php[0-9]|phar|cgi|pl|py|sh)$">
+  Require all denied
+</FilesMatch>
+Options -Indexes
+<IfModule mod_headers.c>
+  <FilesMatch "\.(mp4|webp)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+</IfModule>

@@ -1,0 +1,28 @@
+# Runtime data (created on the server, never committed)
+data/*.sqlite
+data/*.sqlite-wal
+data/*.sqlite-shm
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.bak
+
+# Logs (incl. the contact-form fallback log)
+*.log
+_forfragningar.log
+
+# Large gallery videos (served from the live host, not part of the repo)
+media/v/
+
+# Environment / local config
+.env
+.env.*
+!.env.example
+
+# Tooling / OS
+node_modules/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
